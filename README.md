@@ -27,7 +27,10 @@ This project demonstrates my ability to create **professional, responsive, and p
 
 ## 📸 Project Preview
 
-![Preview](./images/)
+![Preview](./images/privew-image-1)
+![Preview](./images/privew-image-2)
+![Preview](./images/privew-image-3)
+![Preview](./images/privew-image-4)
 
 ---
 
